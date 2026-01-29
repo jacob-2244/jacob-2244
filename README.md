@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Muhammad Yaqoob</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jacob-2244&label=Profile%20Views&color=0e75b6&style=flat" alt="jacob-2244" />
@@ -10,12 +10,13 @@
 
 ## 🚀 About Me
 
-- 💻 **MERN Stack Developer** (MongoDB, Express, React, Node.js)  
-- ⚡ Backend focused with **FastAPI**
-- 🐳 Basic experience with **Docker**
+- 💻 **Full Stack Developer** (Frontend + Backend)
+- ⚡ Strong backend focus with **FastAPI**
+- 🌐 Experience with **MERN Stack**
+- 🐳 Basic hands-on knowledge of **Docker**
 - ☁️ Familiar with **AWS fundamentals**
-- 🌱 Always learning and improving my system design & backend skills  
-- 🤝 Open to collaboration on real-world projects
+- 🧠 Passionate about clean APIs & scalable systems
+- 🤝 Open to collaboration and real-world projects
 
 ---
 
@@ -33,7 +34,11 @@
 
 ### ⚙️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode,slack" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AnyDesk-ED1C24?style=for-the-badge&logo=anydesk&logoColor=white"/>
 </p>
 
 ---
@@ -51,19 +56,34 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Portfolio
+
+- 🌍 **Portfolio Website:** 
+https://m-yaqoobportfolio.vercel.app/
+
+---
+
+## 🤝 Connect With Me
 
 <p>
   <a href="https://github.com/jacob-2244" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
-  <!-- Add LinkedIn or Portfolio when ready -->
+
+  <a href="https://linkedin.com/in/muhammad-yaqoob2244" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+
+  <a href="https://www.instagram.com/jaccob2244" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## ⚡ Fun Fact
-> I enjoy building backend systems that actually *scale* 🚀
+> I enjoy turning complex requirements into clean, scalable systems 🚀
 
 ---
 
