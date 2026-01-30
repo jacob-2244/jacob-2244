@@ -34,7 +34,7 @@
 
 ### ⚙️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode,slack,visualstudio,vercel,railway,render" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode,visualstudio,vercel,railway,render" />
 </p>
 
 
