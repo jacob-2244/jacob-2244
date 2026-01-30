@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 💻 **Full Stack Developer** (Frontend + Backend)
-- ⚡ Strong backend focus with **FastAPI**
+- ⚡ Strong backend focus with **FastAPI,ExpressJs,Nodejs**
 - 🌐 Experience with **MERN Stack**
 - 🐳 Basic hands-on knowledge of **Docker**
 - ☁️ Familiar with **AWS fundamentals**
