@@ -29,7 +29,7 @@
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" />
 </p>
 
 ### ⚙️ Tools & Platforms
