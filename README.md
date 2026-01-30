@@ -37,9 +37,7 @@
   <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode,slack" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/AnyDesk-ED1C24?style=for-the-badge&logo=anydesk&logoColor=white"/>
-</p>
+
 
 ---
 
